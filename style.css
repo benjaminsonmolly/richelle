@@ -1,41 +1,42 @@
 h1 {
-  font-family: 'Overpass';
-  font-size: 32px;
+  font-family: 'Covered By Your Grace', cursive;
+  font-size: 38px;
   color: #eeeeee;
-  margin-left: 75px;
-  margin-right: 75px;
+  margin-left: 100px;
+  margin-right: 100px;
   text-align: center;
 }
 
 h2 {
-  font-family: 'Overpass';
+  font-family: 'Roboto', sans-serif;
   font-size: 18px;
-  color: #eeeeee;
+  color: #ffc300;
   margin-left: 75px;
-  margin-right: 75px;
-  text-align: center;
+  margin-right: 25px;
+  text-align: right;
 }
 
-h3 {
-  font-family: 'Overpass';
-  font-size: 28px;
+p {
   color: #eeeeee;
+  font-family: 'Roboto', sans-serif;
   margin-left: 75px;
   margin-right: 75px;
   text-align: center;
 }
 
 body {
-  background-color: #222831;
+  background-color: #900c3f;
 }
 
 button {
-  font-family: 'Overpass';
-  color: #222831;
+  font-family: 'Roboto', sans-serif;
+  color: black;
+  background-color: #ffc300;
+  border-color: #ffc300;
   font-size: 12px;
   height: 50px;
   width: 100px;
   outline: none;
-  margin-left: 110px;
+  margin-left: 130px;
   border-radius: 7%;
 }
