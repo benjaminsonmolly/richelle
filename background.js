@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function() {
     'The heart of a shrimp is located in its head.', 'A snail can sleep for three years.', 'Slugs have four noses.'
   ];
   var questions = [
-    'Do ants feel love?', 'Do ants go to heaven?', 'What do wolves eat?', 'How long do wolves live?'
+    'Do ants feel love?', 'Do ants go to heaven?', 'What do wolves eat?', 'How long do wolves live?', 'How many people die from moose?', 'Moose or mooses?', 'Did Roosevelt ride a buffalo?'
   ];
   if(factButton){
     factButton.addEventListener('click', function() {
