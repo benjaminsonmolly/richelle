@@ -1,0 +1,17 @@
+{
+  "name": "Deep Thoughts",
+  "version": "1.0",
+  "description": "Deep thoughts and facts with Richelle.",
+  "manifest_version": 2,
+  "version": "1.0",
+
+  "background": {
+    "scripts": ["background.js"],
+    "persistent": false
+  },
+
+  "browser_action": {
+    "default_popup": "popup.html",
+    "default_icon": "img/logo.png"
+ }
+}
